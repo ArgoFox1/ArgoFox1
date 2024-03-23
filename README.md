@@ -1,6 +1,6 @@
 ![1693749584181](https://github.com/ArgoFox1/ArgoFox1/assets/105239243/74f3e6e3-d565-40c7-81dc-7ea02b562688)
 <h1 align="center">Hi There, I'm Emirhan Metin</h1>
-<h3 align="center"> DevOps engineer from Turkey</h3>
+<h3 align="center"> DevOps Engineer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
