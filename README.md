@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArgoFox1](https://github.com/ArgoFox1)
 
-- 💬 Ask me about **DevOps**
-
 - 📫 How to reach me **metinemirhan6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
