@@ -6,7 +6,7 @@
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Programming GIF">
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArgoFox1](https://github.com/ArgoFox1)
 
